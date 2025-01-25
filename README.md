@@ -36,7 +36,7 @@ Place these files in the directory specified in the code (e.g., `C:\Users\jagat\
 ## Steps to Run the Code
 
 ### Step 1: Clone or Copy the Code
-Ensure the script is saved as `main.py` or a similar name.
+Ensure the script is saved as `run.py` or a similar name.
 
 ### Step 2: Execute the Code
 Run the following command in the terminal:
