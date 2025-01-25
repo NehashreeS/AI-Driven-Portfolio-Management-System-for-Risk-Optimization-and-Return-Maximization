@@ -63,8 +63,7 @@ All outputs are saved in the `C:\Users\jagat\Downloads\archive` directory.
 
 ### Key Functions
 
-**1. Data Loading (`load_data`):
-**  
+1. **Data Loading (`load_data`):**  
 Loads and logs basic statistics of the input datasets.
 
 2. **Data Preprocessing (`preprocess_data`)**:
