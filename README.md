@@ -14,6 +14,7 @@ This project is a machine learning pipeline for stock market prediction. It invo
   - numpy
   - scikit-learn
   - xgboost
+  - tkinter
   - imbalanced-learn
   - seaborn
   - matplotlib
